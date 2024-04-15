@@ -1,0 +1,8 @@
+torch
+torchvision
+opencv-python
+timm
+mediapipe
+git+https://github.com/facebookresearch/detectron2.git
+Pillow
+matplotlib
