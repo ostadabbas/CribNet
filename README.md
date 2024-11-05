@@ -9,7 +9,9 @@ Contact:
 
 [Amal Mathew](mathew.ama@northeastern.edu)
 
-[Shaotong Zhu](shawnzhu@ece.neu.edu)
+[Shaotong Zhu](shawnzhu@ece.neu.edu)]
+
+[Elaheh Hatamimajoumerd](e.hatamimajoumerd@neu.edu)]
 
 [Sarah Ostadabbas](ostadabbas@ece.neu.edu)
 
